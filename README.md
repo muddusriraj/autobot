@@ -8,3 +8,5 @@ This application is written in AutoIT (for Windows) and Python (unreleased; for 
 
 <br><br>
 <i><b>In order to be able to run the app along with the tutorial button without crashing, you must install the ENTIRE AutoBot folder within the repository. Do not drag the .exe file out of the Resources folder, just make a shortcut and drag it onto your desktop or anywhere you want it.</b></i>
+
+You can send any requests or whatever to my gmail: muddusriraj@gmail.com
