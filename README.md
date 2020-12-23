@@ -13,6 +13,8 @@ Releases:
 
 Windows Version: https://github.com/muddusriraj/autobot/releases
 
+Mac Version: Releasing Mac Version (extremely) soon. Currently debugging, fixing minor issues, and styling the application.
+
 Misc:
 
 You can send any requests or whatever to my gmail: muddusriraj@gmail.com
